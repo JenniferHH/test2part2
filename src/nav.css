@@ -1,0 +1,26 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+body {
+    padding-top: 100px; 
+}
+
+
+.navbar-nav {
+    justify-content: center;
+}
+
+.content {
+    margin-top: 56px; 
+}
+
+
+
+

@@ -1,0 +1,19 @@
+.fromtable{
+    width: 50%;
+    margin: 0 auto; 
+    padding: 40px;
+    margin-top: 25px;
+}
+
+.text{
+    width: 50%;
+    margin: 0 auto; 
+    padding: 40px;
+}
+
+.bg-image {
+    background-image: url('skyline.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 65vh; 
+}
