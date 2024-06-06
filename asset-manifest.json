@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bankappdesign-hsw/static/css/main.c4efee4a.css",
-    "main.js": "/bankappdesign-hsw/static/js/main.0266c5a7.js",
+    "main.js": "/bankappdesign-hsw/static/js/main.970402ad.js",
     "static/media/Banner.PNG": "/bankappdesign-hsw/static/media/Banner.1d380589ba95d0def0ba.PNG",
     "static/media/skyline.jpg": "/bankappdesign-hsw/static/media/skyline.3e71182c9bb49e9eb944.jpg",
     "static/media/instagram.png": "/bankappdesign-hsw/static/media/instagram.6343ad66e8b8a5018d48.png",
@@ -9,10 +9,10 @@
     "static/media/facebook.png": "/bankappdesign-hsw/static/media/facebook.d37b9d5c28bb33630223.png",
     "index.html": "/bankappdesign-hsw/index.html",
     "main.c4efee4a.css.map": "/bankappdesign-hsw/static/css/main.c4efee4a.css.map",
-    "main.0266c5a7.js.map": "/bankappdesign-hsw/static/js/main.0266c5a7.js.map"
+    "main.970402ad.js.map": "/bankappdesign-hsw/static/js/main.970402ad.js.map"
   },
   "entrypoints": [
     "static/css/main.c4efee4a.css",
-    "static/js/main.0266c5a7.js"
+    "static/js/main.970402ad.js"
   ]
 }
