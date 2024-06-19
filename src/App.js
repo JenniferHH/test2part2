@@ -23,7 +23,7 @@ const App = () => {
   };
 
   return ( 
-    <Router> 
+    <Router basename="/bankappdesign-hsw"> 
       <div> 
         <Navbar balance={balance} /> 
         <div className="container mt-4"> 

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './log.css';
 import { Container, Row, Col } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Link } from 'react-router-dom';
 
 const Login = () => {
   const [email, setEmail] = useState('');
@@ -62,7 +63,7 @@ const Login = () => {
     const user = users.find(user => user.About.Email === email && user.About.Password === password);
     if (user) {
       localStorage.setItem('accountNumber', user.About.AccountNumber);
-      window.location.href = '/Transaction';
+      return <Link to="/Transaction" />;
     } else {
       setErrorMessage('Invalid email or password');
     }
